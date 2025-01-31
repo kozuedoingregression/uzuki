@@ -19,7 +19,7 @@ I've been trying to solve this problem for a while now, but I haven't made any p
 
 MIT License
 
-Copyright (c) 2025 [kozue]
+Copyright (c) 2025 [kozue](https://github.com/kozuedoingregression)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
